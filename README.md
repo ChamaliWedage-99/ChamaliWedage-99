@@ -1,9 +1,9 @@
-![logo](https://github.com/ChamaliWedage-99/ChamaliWedage-99/blob/main/White%20Rose%20Floral%20Illustration%20Wedding%20Banners%20Landscape.png)
+![logo](https://github.com/ChamaliWedage-99/ChamaliWedage-99/blob/main/black%20blue%20modern%20twitch%20banner.png)
 <h1 align="center">Hi 👋, I'm Chamali Wedage</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
 
-<img align="right" alt="software-engineer" width="400" src="https://github.com/ChamaliWedage-99/ChamaliWedage-99/blob/main/black%20blue%20modern%20twitch%20banner.png">
+<img align="right" alt="software-engineer" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamaliwedage-99&label=Profile%20views&color=0e75b6&style=flat" alt="chamaliwedage-99" /> </p>
