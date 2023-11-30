@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
 
-<img align="right" alt="software-engineer" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="software-engineer" width="400" src="https://github.com/ChamaliWedage-99/ChamaliWedage-99/blob/main/black%20blue%20modern%20twitch%20banner.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamaliwedage-99&label=Profile%20views&color=0e75b6&style=flat" alt="chamaliwedage-99" /> </p>
