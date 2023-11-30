@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript, MERN Stack,Python, Psychology**
 
-- 🤝 I’m looking for help with **JavaScript, Flutter**
+- 🤝 I’m looking for practice  **JavaScript, Flutter and MERN Stack**
 
 - 📝 I regularly write articles on [https://zippy-daffodil-d6lzxt.mystrikingly.com](https://zippy-daffodil-d6lzxt.mystrikingly.com)
 
