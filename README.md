@@ -8,13 +8,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamaliwedage-99&label=Profile%20views&color=0e75b6&style=flat" alt="chamaliwedage-99" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, MERN Stack,Python, Psychology**
+- 🌱 I’m currently working as an **Intern Software Engineer at Change8, United Kingdom**
+  
+- I’m working on IFS Cloud and ERP Systems!
+
+- I’m currently learning **JavaScript, MERN Stack,Python, Psychology**
 
 - 🤝 I’m looking for practice  **JavaScript, Flutter and MERN Stack**
 
 - 📝 I regularly write articles on [https://zippy-daffodil-d6lzxt.mystrikingly.com](https://zippy-daffodil-d6lzxt.mystrikingly.com)
 
-- 💬 Ask me about **JavaScript, Flutter**
+- 💬 Ask me about **IFS**
 
 - 📫 How to reach me **chamaliwedage5@gmail.com**
 
