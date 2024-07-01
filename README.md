@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamaliwedage-99&label=Profile%20views&color=0e75b6&style=flat" alt="chamaliwedage-99" /> </p>
 
-- 🌱 I’m currently working as an **Intern Software Engineer at Change8, United Kingdom**
+- 🌱 I’m currently working as an **Associate Software Engineer at Change8, United Kingdom**
   
 - I’m working on IFS Cloud and ERP Systems!
 
