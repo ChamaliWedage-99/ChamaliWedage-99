@@ -1,6 +1,6 @@
 ![logo](https://github.com/ChamaliWedage-99/ChamaliWedage-99/blob/main/black%20blue%20modern%20twitch%20banner.png)
 <h1 align="center">Hi 👋, I'm Chamali Wedage</h1>
-<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+<h3 align="center">Associate Software Engineer, Change8, UK </h3>
 
 
 <img align="right" alt="software-engineer" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
@@ -18,11 +18,7 @@
 
 - 📝 I regularly write articles on [https://zippy-daffodil-d6lzxt.mystrikingly.com](https://zippy-daffodil-d6lzxt.mystrikingly.com)
 
-- 💬 Ask me about **IFS**
-
 - 📫 How to reach me **chamaliwedage5@gmail.com**
-
-- ⚡ Spoiler Alert **I don't listen to music!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
